@@ -1,0 +1,38 @@
+{
+  "materials": {
+    "version": "1.0.0",
+    "breeze:entity_alphatest": {},
+    "breeze_eyes:entity_nocull": {
+      "+defines": [ "USE_COLOR_MASK", "ALPHA_TEST" ],
+      "depthFunc": "Equal",
+      "blendSrc": "SourceAlpha",
+      "blendDst": "OneMinusSrcAlpha"
+    },
+    "breeze_wind:entity_static": {
+      "+defines": [ "USE_UV_ANIM", "ALPHA_TEST" ],
+      "+states": [ "Blending", "DisableCulling", "DisableDepthWrite" ],
+      "msaaSupport": "Both",
+      "+samplerStates": [
+        {
+          "samplerIndex": 0,
+          "textureFilter": "Point",
+          "textureWrap": "Repeat"
+        }
+      ]
+    },
+    "breeze_wind_charge:entity_static": {
+      "+defines": [ "USE_UV_ANIM", "ALPHA_TEST" ],
+      "+states": [ "Blending", "DisableCulling", "DisableDepthWrite" ],
+      "msaaSupport": "Both",
+      "blendSrc": "SourceAlpha",
+      "blendDst": "One",
+      "+samplerStates": [
+        {
+          "samplerIndex": 0,
+          "textureFilter": "Point",
+          "textureWrap": "Repeat"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  // Alphabetical order please :)
+  "ui_defs": [
+    "ui/crafter_screen_pocket.json",
+    "ui/redstone_screen.json"
+  ]
+}

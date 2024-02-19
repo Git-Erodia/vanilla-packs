@@ -1,0 +1,268 @@
+{
+    "content": [
+        {
+            "path": "manifest.json"
+        },
+        {
+            "path": "sounds.json"
+        },
+        {
+            "path": "animations/armadillo.animation.json"
+        },
+        {
+            "path": "animation_controllers/armadillo.animation_controllers.json"
+        },
+        {
+            "path": "entity/armadillo.entity.json"
+        },
+        {
+            "path": "entity/wolf.entity.json"
+        },
+        {
+            "path": "models/entity/armadillo.geo.json"
+        },
+        {
+            "path": "models/entity/wolf_armor.geo.json"
+        },
+        {
+            "path": "render_controllers/armadillo.render_controllers.json"
+        },
+        {
+            "path": "render_controllers/wolf_armor.render_controllers.json"
+        },
+        {
+            "path": "sounds/sound_definitions.json"
+        },
+        {
+            "path": "sounds/armor/equip_wolf1.fsb"
+        },
+        {
+            "path": "sounds/armor/equip_wolf2.fsb"
+        },
+        {
+            "path": "sounds/armor/unequip_wolf1.fsb"
+        },
+        {
+            "path": "sounds/armor/unequip_wolf2.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/ambient1.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/ambient2.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/ambient3.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/ambient4.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/ambient5.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/ambient6.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/ambient7.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/ambient8.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/brush_armadillo1.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/brush_armadillo2.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/death1.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/death2.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/death3.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/death4.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/eat1.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/eat2.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/eat3.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/hurt1.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/hurt2.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/hurt3.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/hurt4.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/hurt5.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/land1.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/land2.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/land3.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/land4.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/roll1.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/roll2.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/roll3.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/roll4.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/scute_drop1.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/scute_drop2.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/step1.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/step2.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/step3.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/step4.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/step5.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/unroll1.fsb"
+        },
+        {
+            "path": "sounds/mob/armadillo/unroll2.fsb"
+        },
+        {
+            "path": "texts/bg_BG.lang"
+        },
+        {
+            "path": "texts/cs_CZ.lang"
+        },
+        {
+            "path": "texts/da_DK.lang"
+        },
+        {
+            "path": "texts/de_DE.lang"
+        },
+        {
+            "path": "texts/el_GR.lang"
+        },
+        {
+            "path": "texts/en_GB.lang"
+        },
+        {
+            "path": "texts/en_US.lang"
+        },
+        {
+            "path": "texts/es_ES.lang"
+        },
+        {
+            "path": "texts/es_MX.lang"
+        },
+        {
+            "path": "texts/fi_FI.lang"
+        },
+        {
+            "path": "texts/fr_CA.lang"
+        },
+        {
+            "path": "texts/fr_FR.lang"
+        },
+        {
+            "path": "texts/hu_HU.lang"
+        },
+        {
+            "path": "texts/id_ID.lang"
+        },
+        {
+            "path": "texts/it_IT.lang"
+        },
+        {
+            "path": "texts/ja_JP.lang"
+        },
+        {
+            "path": "texts/ko_KR.lang"
+        },
+        {
+            "path": "texts/nb_NO.lang"
+        },
+        {
+            "path": "texts/nl_NL.lang"
+        },
+        {
+            "path": "texts/pl_PL.lang"
+        },
+        {
+            "path": "texts/pt_BR.lang"
+        },
+        {
+            "path": "texts/pt_PT.lang"
+        },
+        {
+            "path": "texts/ru_RU.lang"
+        },
+        {
+            "path": "texts/sk_SK.lang"
+        },
+        {
+            "path": "texts/sv_SE.lang"
+        },
+        {
+            "path": "texts/tr_TR.lang"
+        },
+        {
+            "path": "texts/uk_UA.lang"
+        },
+        {
+            "path": "texts/zh_CN.lang"
+        },
+        {
+            "path": "texts/zh_TW.lang"
+        },
+        {
+            "path": "textures/item_texture.json"
+        },
+        {
+            "path": "textures/entity/armadillo.png"
+        },
+        {
+            "path": "textures/entity/wolf/wolf_armor.png"
+        },
+        {
+            "path": "textures/items/armadillo_scute.png"
+        },
+        {
+            "path": "textures/items/wolf_armor.png"
+        }
+    ]
+}

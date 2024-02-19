@@ -1,0 +1,146 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    "mob.armadillo.ambient": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/mob/armadillo/ambient1",
+        "sounds/mob/armadillo/ambient2",
+        "sounds/mob/armadillo/ambient3",
+        "sounds/mob/armadillo/ambient4",
+        "sounds/mob/armadillo/ambient5",
+        "sounds/mob/armadillo/ambient6",
+        "sounds/mob/armadillo/ambient7",
+        "sounds/mob/armadillo/ambient8"
+      ]
+    },
+    "mob.armadillo.death": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/mob/armadillo/death1",
+        "sounds/mob/armadillo/death2",
+        "sounds/mob/armadillo/death3",
+        "sounds/mob/armadillo/death4"
+      ]
+    },
+    "mob.armadillo.eat": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/mob/armadillo/eat1",
+        "sounds/mob/armadillo/eat2",
+        "sounds/mob/armadillo/eat3"
+      ]
+    },
+    "mob.armadillo.hurt": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/mob/armadillo/hurt1",
+        "sounds/mob/armadillo/hurt2",
+        "sounds/mob/armadillo/hurt3",
+        "sounds/mob/armadillo/hurt4",
+        "sounds/mob/armadillo/hurt5"
+      ]
+    },
+    "mob.armadillo.step": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/mob/armadillo/step1",
+        "sounds/mob/armadillo/step2",
+        "sounds/mob/armadillo/step3",
+        "sounds/mob/armadillo/step4",
+        "sounds/mob/armadillo/step5"
+      ]
+    },
+    "mob.armadillo.roll": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/mob/armadillo/roll1",
+        "sounds/mob/armadillo/roll2",
+        "sounds/mob/armadillo/roll3",
+        "sounds/mob/armadillo/roll4"
+      ]
+    },
+    "mob.armadillo.land": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/mob/armadillo/land1",
+        "sounds/mob/armadillo/land2",
+        "sounds/mob/armadillo/land3",
+        "sounds/mob/armadillo/land4"
+      ]
+    },
+    "mob.armadillo.unroll": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/mob/armadillo/unroll1",
+        "sounds/mob/armadillo/unroll2"
+      ]
+    },
+    "mob.armadillo.brush": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/mob/armadillo/brush_armadillo1",
+          "volume": 0.9
+        },
+        {
+          "name": "sounds/mob/armadillo/brush_armadillo1",
+          "pitch": 0.8,
+          "volume": 0.9
+        },
+        {
+          "name": "sounds/mob/armadillo/brush_armadillo1",
+          "pitch": 0.9,
+          "volume": 0.9
+        },
+        {
+          "name": "sounds/mob/armadillo/brush_armadillo2",
+          "volume": 0.9
+        },
+        {
+          "name": "sounds/mob/armadillo/brush_armadillo2",
+          "pitch": 0.8,
+          "volume": 0.9
+        },
+        {
+          "name": "sounds/mob/armadillo/brush_armadillo2",
+          "pitch": 0.9,
+          "volume": 0.9
+        }
+      ]
+    },
+    "mob.armadillo.scute_drop": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/mob/armadillo/scute_drop1",
+          "pitch": 0.9
+        },
+        {
+          "name": "sounds/mob/armadillo/scute_drop2",
+          "pitch": 0.9
+        }
+      ]
+    },
+    "armor.equip_wolf": {
+      "category": "neutral",
+      "sounds": [
+        {
+          "name": "sounds/armor/equip_wolf1",
+          "pitch": 1.1
+        },
+        {
+          "name": "sounds/armor/equip_wolf2",
+          "pitch": 1.1
+        }
+      ]
+    },
+    "armor.unequip_wolf": {
+      "category": "neutral",
+      "sounds": [
+        "sounds/armor/unequip_wolf1",
+        "sounds/armor/unequip_wolf2"
+      ]
+    }
+  }
+}

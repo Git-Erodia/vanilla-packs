@@ -1,0 +1,21 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "copper_door": {
+      "textures": "textures/items/copper_door"
+    },
+    "exposed_copper_door": {
+      "textures": "textures/items/exposed_copper_door"
+    },
+    "weathered_copper_door": {
+      "textures": "textures/items/weathered_copper_door"
+    },
+    "oxidized_copper_door": {
+      "textures": "textures/items/oxidized_copper_door"
+    },
+    "trial_key": {
+      "textures": "textures/items/trial_key"
+    }
+  }
+}
